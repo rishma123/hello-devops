@@ -1,5 +1,6 @@
 {
   "name": "hello-devops",
+  "homepage": "https://rishma123.github.io/hello-devops",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
